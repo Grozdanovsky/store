@@ -1,4 +1,4 @@
-# polarcape-test
+# store-app
 
 потребна верзија на python: 3.10
 
